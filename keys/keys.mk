@@ -1,1 +1,1 @@
-PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/lineage/signing/keys/releasekey
+PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/genesis/signing/keys/releasekey
